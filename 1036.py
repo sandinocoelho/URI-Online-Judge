@@ -17,3 +17,4 @@ else:
     x2 = (-b - delta) / (2 * a)
     print("R1 = %.5f" %x1)
     print("R2 = %.5f" %x2)
+
